@@ -156,6 +156,13 @@ main{
     margin-top: 10px;
     border: 0;
 }
+.sale-container{
+    max-width: 1140px;
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+    align-items: center;
+}
 .sale-text h2{
     color: #272727;
     font-size: 30px;
